@@ -24,23 +24,23 @@ Census State Population
 
 Wonder.cdc.gov
 
-**Analysis**
 
+# Analysis
 
-![](/locationsvisual.png)
+![](png/locationsvisual.png)
 
 
 ![](png/watersourcesvisual.png)
 
-Legionella likes warm, hot, humid climates
+**Legionella likes warm, hot, humid climates**
 ![](png/climate.png)
 
-Legionnaires' cases are constantly rising
+**Legionnaires' cases are consistently rising**
 ![](png/riseleg.png)
 
 ![](png/map.gif)
 
-Is there a link to Community Water System Violations?
+**Is there a link to Community Water System Violations?**
 
 Community Water System Violations are going down
 ![](png/waterviolations.png)
@@ -51,5 +51,3 @@ Health Based Violations are going down
 
 **Conclusion**
 While typically Legionella has colonized in buildings like hotels and hospitals - office buildings along with other buildings that have been shut down during the Covid-19 pandemic, may now pose a new risk for outbreaks.
-
-<a href="/legionnaires.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
