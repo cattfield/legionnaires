@@ -30,23 +30,23 @@ Wonder.cdc.gov
 ![](locationsvisual.png)
 
 
-![](watersourcesvisual.png)
+![](\png\watersourcesvisual.png)
 
 Legionella likes warm, hot, humid climates
-![](climate.png)
+![](\png\climate.png)
 
 Legionnaires' cases are constantly rising
-![](riseleg.png)
+![](\png\riseleg.png)
 
 add gif
 
 Is there a link to Community Water System Violations?
 
 Community Water System Violations are going down
-![](waterviolations.png)
+![](\png\waterviolations.png)
 
 Health Based Violations are going down
-![](healthbased.png)
+![](\png\healthbased.png)
 
 
 **Conclusion**
