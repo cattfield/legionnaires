@@ -2,13 +2,34 @@
 
 **Motivation**
 “To do something helpful in the time of Covid.”     
-With office buildings being closed during the shutdown (stagnant water), could this make conditions ripe for a legionnaire’s outbreak? What systems do we have in place to protect the American people from the next preventable epidemic? Is there a correlation between water system violations and increased waterborne illnesses in America? Does this disproportionately affect low income communities and communities of color?
+With office buildings being closed during the Covid-19 Pandemic (stagnant water), could this make conditions ripe for a legionnaire’s outbreak?  Is there a correlation between water system violations and increased Legionnaires' cases?
 
 **Initial Questions:**  
 Will legionnaires be the next US epidemic?  
 Have water system violations increased over time?  
-Have waterborne illnesses increased over time?  
-Have clean water regulations increased? Decreased? How does this   affect the number of violations?  
-Is there a link between lower quality water care and low income cities/regions? - and is there also a link to communities of color?
-What demographic of people are most vulnerable to legionnaires and other waterborne diseases?   
-Are states requiring the flushing of water tanks and the inspection of cooling towers at facilities that haven’t been in use?  
+Is there a correlation between the two?
+
+**Data**
+
+National Outbreak Reporting System (NORS)
+Centers for Disease Control (CDC)
+Enforcement and Compliance History Online (Echo)
+Environmental Protection Agency (EPA)
+Census State Population
+Wonder.cdc.gov
+
+**Analysis**
+
+Locations
+
+Water Sources
+
+Climate
+
+Rise in cases
+
+Community Water System Violations
+
+Health Based Violations
+
+**Conclusion**
