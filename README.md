@@ -1,4 +1,4 @@
-# Will Legionnaires' be the next US epidemic?
+# Will Legionnaires' disease be the next US epidemic?
 
 **Motivation**
 “To do something helpful in the time of Covid.”     
@@ -35,7 +35,6 @@ Climate
 
 
 Rise in cases
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 Community Water System Violations
