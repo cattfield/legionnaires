@@ -27,18 +27,13 @@ Wonder.cdc.gov
 
 Locations
 
-
 Water Sources
-
 
 Climate
 
-
 Rise in cases
 
-
 Community Water System Violations
-
 
 Health Based Violations
 
