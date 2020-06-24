@@ -1,4 +1,4 @@
-# Will legionnaire's be the next US epidemic?
+# Will Legionnaire's be the next US epidemic?
 
 **Motivation**
 “To do something helpful in the time of Covid.”     
