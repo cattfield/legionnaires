@@ -24,6 +24,8 @@ Census State Population
 
 Wonder.cdc.gov
 
+# Capstone Link
+[Capstone Link](/legionnaires.pdf)
 
 # Analysis
 
@@ -51,3 +53,6 @@ Health Based Violations are going down
 
 **Conclusion**
 While typically Legionella has colonized in buildings like hotels and hospitals - office buildings along with other buildings that have been shut down during the Covid-19 pandemic, may now pose a new risk for outbreaks.
+
+# Capstone Link
+[Capstone Link](/legionnaires.pdf)
