@@ -38,7 +38,7 @@ Legionella likes warm, hot, humid climates
 Legionnaires' cases are constantly rising
 ![](\png\riseleg.png)
 
-add gif
+![](\png\map.gif)
 
 Is there a link to Community Water System Violations?
 
