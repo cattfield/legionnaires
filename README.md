@@ -10,6 +10,10 @@ Will Legionnaires' be the next US epidemic?
 Have water system violations increased over time?  
 Is there a correlation between the two?
 
+# Capstone Link
+[Capstone Link](/legionnaires.pdf)
+
+
 **Data**
 
 National Outbreak Reporting System (NORS)
@@ -24,8 +28,6 @@ Census State Population
 
 Wonder.cdc.gov
 
-# Capstone Link
-[Capstone Link](/legionnaires.pdf)
 
 # Analysis
 
@@ -44,15 +46,16 @@ Wonder.cdc.gov
 
 **Is there a link to Community Water System Violations?**
 
-Community Water System Violations are going down
+**Community Water System Violations are going down**
 ![](png/waterviolations.png)
 
-Health Based Violations are going down
+**Health Based Violations are going down**
 ![](png/healthbased.png)
 
 
 **Conclusion**
 While typically Legionella has colonized in buildings like hotels and hospitals - office buildings along with other buildings that have been shut down during the Covid-19 pandemic, may now pose a new risk for outbreaks.
+
 
 # Capstone Link
 [Capstone Link](/legionnaires.pdf)
