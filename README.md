@@ -26,25 +26,27 @@ Wonder.cdc.gov
 
 **Analysis**
 
-Locations
+
 ![](locationsvisual.png)
 
-Water Sources
-![](watersourcesvisual.png)
 
-Climate
-![](climate.png)
+![](\png\watersourcesvisual.png)
 
-Rise in cases
-![](riseleg.png)
+Legionella likes warm, hot, humid climates
+![](\png\climate.png)
 
-add gif
+Legionnaires' cases are constantly rising
+![](\png\riseleg.png)
 
-Community Water System Violations
-![](waterviolations.png)
+![](\png\map.gif)
 
-Health Based Violations
-![](healthbased.png)
+Is there a link to Community Water System Violations?
+
+Community Water System Violations are going down
+![](\png\waterviolations.png)
+
+Health Based Violations are going down
+![](\png\healthbased.png)
 
 
 **Conclusion**
