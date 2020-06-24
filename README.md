@@ -5,11 +5,8 @@
 With office buildings being closed during the Covid-19 Pandemic (stagnant water), could this make conditions ripe for a Legionnaires' outbreak?  Is there a correlation between water system violations and increased Legionnaires' cases?
 
 **Initial Questions:**  
-<<<<<<< HEAD
-Will Legionnaires' disease be the next US epidemic?  
-=======
-Will Legionnaires be the next US epidemic?  
->>>>>>> b9f29964f5e33817e6228d72b4761c81fa7b266b
+
+Will Legionnaires' be the next US epidemic?  
 Have water system violations increased over time?  
 Is there a correlation between the two?
 
@@ -30,17 +27,27 @@ Wonder.cdc.gov
 **Analysis**
 
 Locations
+![](locationsvisual.png)
 
 Water Sources
+![](watersourcesvisual.png)
 
 Climate
+![](climate.png)
 
 Rise in cases
+![](riseleg.png)
+
+add gif
 
 Community Water System Violations
+![](waterviolations.png)
 
 Health Based Violations
+![](healthbased.png)
 
 
 **Conclusion**
 While typically Legionella has colonized in buildings like hotels and hospitals - office buildings along with other buildings that have been shut down during the Covid-19 pandemic, may now pose a new risk for outbreaks.
+
+<a href="/legionnaires.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
