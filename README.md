@@ -49,7 +49,6 @@ Wonder.cdc.gov
 **Community Water System Violations are going down**
 ![](png/waterviolations.png)
 
-**Health Based Violations are going down**
 ![](png/healthbased.png)
 
 
